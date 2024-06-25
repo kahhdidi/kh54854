@@ -1,9 +1,9 @@
 ## bem vindo ao meu perfil 
 
 Me chamo Kah
--EStou estudando no Alura
--Me desenvolvendo na linguagem Java script
--Esse é um espaço de organização de compartilhamento de projetos desenvolvidos
+- EStou estudando no Alura
+- Me desenvolvendo na linguagem Java script
+- Esse é um espaço de organização de compartilhamento de projetos desenvolvidos
 
  ## Caso queira entrar em contato comigo
  
